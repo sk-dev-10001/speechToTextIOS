@@ -75,10 +75,10 @@
 		2816DDE62D717A0000A224FD = {
 			isa = PBXGroup;
 			children = (
-				2816DDF12D717A0000A224FD /* Speech_Recogniser */,
 				2816DE022D717A0400A224FD /* Speech_RecogniserTests */,
 				2816DE0C2D717A0400A224FD /* Speech_RecogniserUITests */,
 				2816DDF02D717A0000A224FD /* Products */,
+				2816DDF12D717A0000A224FD /* Speech_Recogniser */,
 			);
 			sourceTree = "<group>";
 		};
